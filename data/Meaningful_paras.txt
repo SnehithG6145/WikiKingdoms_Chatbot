@@ -1,0 +1,54 @@
+Kakatiya =
+["
+The Kakatiya dynasty (IAST: Kākatīya) was a Telugu dynasty that ruled most of eastern Deccan region in present-day India between 12th and 14th centuries. Their territory comprised much of the present day Telangana and Andhra Pradesh, and parts of eastern Karnataka, northern Tamil Nadu, and southern Odisha. Their capital was Orugallu, now known as Warangal. Early Kakatiya rulers served as feudatories to Rashtrakutas and Western Chalukyas for more than two centuries."
+,
+"They assumed sovereignty under Prataparudra I in 1163 CE by suppressing other Chalukya subordinates in the Telangana region. Ganapati Deva (r. 1199–1262) significantly expanded Kakatiya lands during the 1230s and brought under Kakatiya control the Telugu-speaking lowland delta areas around the Godavari and Krishna rivers. Ganapati Deva was succeeded by Rudrama Devi (r. 1262–1289) who is one of the few queens in Indian history."
+,
+"Marco Polo, who visited India around 1289–1293, made note of Rudrama Devi's rule and nature in flattering terms. She successfully repelled the attacks of Yadavas (Seuna) of Devagiri into the Kakatiyan territory. In 1303, Alauddin Khalji, the emperor of the Delhi Sultanate invaded the Kakatiya territory which ended up as a disaster for the Turks."
+,
+"The Kakatiya dynasty, which ruled from approximately 1000 to 1323 CE, was a Telugu dynasty that played a vital role in South Indian history. Initially feudatories to the Western Chalukyas of Kalyani, they declared independence around 1151 CE under Kakatiya Prola II, taking advantage of Chalukya decline. Their capital was initially at Hanumakonda but was later shifted to Orugallu (modern-day Warangal), which became a powerful fortified city. The dynasty expanded its territory to include present-day Telangana, Andhra Pradesh, parts of eastern Karnataka, northern Tamil Nadu, and southern Odisha."
+,
+"Rudrama Devi (1262–1289), one of India's few female monarchs, ruled with administrative skill and military prowess, notably repulsing the Yadava attacks. The dynasty faced invasions from the Delhi Sultanate under Alauddin Khalji and later Tughlaq rulers. Despite fierce resistance, the Kakatiya dynasty fell in 1323 after the siege of Warangal and the capture of Prataparudra II, marking the end of their sovereign rule. The Kakatiyas are remembered for promoting Telugu language and culture, pioneering irrigation infrastructure, and pioneering a distinctive style of temple architecture."
+,
+"Key rulers include Rudradeva (Prataparudra I), who consolidated power and constructed large irrigation tanks such as Ramappa and Bhadrakali lakes and laid the foundation for Warangal's fortifications. Ganapati Deva (r. 1199–1262) was the most powerful ruler who expanded the kingdom substantially, from Kanchipuram in the south to the Godavari basin in the north and Raichur Doab in the west. He promoted agriculture through large-scale irrigation projects and made the port of Motupalli a major trading hub, fostering prosperity. The exquisite Ramappa Temple was built during his reign by his general Recharla Rudra and is now a UNESCO World Heritage Site."
+]
+
+Satyavahanah:
+{
+The Satavahanas (; Sādavāhana or Sātavāhana, IAST: Sātavāhana), also referred to as the Andhras (also Andhra-bhṛtyas or Andhra-jatiyas) in the Puranas, were an ancient Indian dynasty. Most modern scholars believe that the Satavahana rule began in the late 2nd century BCE and lasted until the early 3rd century CE, although some assign the beginning of their rule to as early as the 3rd century BCE based on the Puranas, but uncorroborated by archaeological evidence. The Satavahana kingdom mainly comprised the present-day Andhra Pradesh, Telangana, and Maharashtra. At different times, their rule extended to parts of modern Gujarat, Madhya Pradesh, and Karnataka.
+;
+The dynasty had different capital cities at different times, including Pratishthana (Paithan) and Amaravati (Dharanikota). The origin of the dynasty is uncertain, but according to the Puranas, their first king overthrew the Kanva dynasty. In the post-Maurya era, the Satavahanas established peace in the Deccan region and resisted the onslaught of foreign invaders. In particular their struggles with the Saka (Western Satraps) went on for a long time.
+;
+Notable for being early issuers of state coinage, the Satavahanas played a critical role in bridging cultures between the Indo-Gangetic plains and southern India. They followed Mauryan administrative traditions and included hereditary rulers, feudatories, and ministers in their governance. The Satavahanas were patrons of Brahmanism and Mahayana Buddhism, performed Vedic sacrifices, and made generous donations to Buddhist monasteries. Their territory included fertile river valleys, facilitating trade and agriculture. They controlled significant Indian sea ports, dominating trade with the Roman Empire, as noted in the Periplus of the Erythraean Sea.
+}
+
+Chalukya:
+{
+The Chalukya dynasty was a Classical Indian dynasty that ruled large parts of southern and central India between the 6th and the 12th centuries. During this period, they ruled as three related yet individual dynasties. The earliest dynasty, known as the "Badami Chalukyas", ruled from Vatapi (modern Badami) from the middle of the 6th century.
+;
+The Badami Chalukyas began to assert their independence at the decline of the Kadamba kingdom of Banavasi and rapidly rose to prominence during the reign of Pulakeshin II. After the death of Pulakeshin II, the Eastern Chalukyas became an independent kingdom in the eastern Deccan. They ruled from Vengi until about the 11th century.
+;
+Pulakeshin II, arguably the most famous Chalukya ruler, extended the empire across the Deccan, defeated northern and southern rivals, and demonstrated military prowess. The dynasty split into Eastern and Western branches, the former ruling the coastal Andhra region with Telugu literary patronage, and the latter reviving fortunes in the 10th century and fostering Kannada literature as well as Sanskrit scholarship.
+}
+
+Vijayanagara:
+{
+The Vijayanagara Empire, also known as the Karnata Kingdom, was a late medieval Hindu empire that ruled much of southern India. It was established in 1336 by the brothers Harihara I and Bukka Raya I of the Sangama dynasty, belonging to the Yadava clan of Chandravamsa lineage. The empire rose to prominence as a culmination of attempts by the southern powers to ward off Muslim invasions by the end of the 13th century.
+;
+At its peak in the early 16th century under Krishnadevaraya, it subjugated almost all of Southern India's ruling dynasties and pushed the Deccan sultanates beyond the Tungabhadra-Krishna River doab region, in addition to annexing the Gajapati Empire (Odisha) up to the Krishna River, becoming one of the most prominent states in India.
+}
+
+Rashtrakuta:
+{
+The Rashtrakuta Empire (Kannada: [raːʂʈrɐkuːʈɐ]) was a royal Indian polity ruling large parts of the Indian subcontinent between the 6th and 10th centuries. The earliest known Rashtrakuta inscription is a 7th-century copper plate grant detailing their rule from Manapur, a city in Central or West India.
+;
+At their peak the Rashtrakutas of Manyakheta ruled a vast empire stretching from the Ganges River and Yamuna River doab in the north to Kanyakumari in the south, a fruitful time of political expansion, architectural achievements and famous literary contributions.
+}
+
+chola:
+{
+The Chola dynasty was a Tamil dynasty originating from Southern India. At its height, it ruled over the Chola Empire, an expansive maritime empire.
+;
+The earliest datable references to the Chola are from inscriptions dated to the 3rd century BCE during the reign of Ashoka of the Maurya Empire. The Chola empire was at its peak and achieved imperialism under the Medieval Cholas in the mid-9th century CE.
+}
+
